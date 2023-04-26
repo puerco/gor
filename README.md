@@ -36,7 +36,7 @@ sudo mv gor /usr/local/bin
 
 ### Usage
 
-`gor` us super easy to run. It supports a single subcommand: `un`.
+`gor` is super easy to run. It supports a single subcommand: `un`.
 
 The `un` subcommand supports the same arguments as `go run`, this is because
 it is really invoking `go run` under the hood. IS THAT SMART OR WHAT!?!?!
