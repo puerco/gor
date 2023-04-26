@@ -29,7 +29,7 @@ To install gor simply download it from the release page, chmod it 0755 and
 you. are. done. 
 
 ```bash
-https://github.com/kubernetes-sigs/bom/releases/download/v1.0.0/gor
+https://github.com/puerco/gor/releases/download/v1.0.0/gor
 chmod 0755 gor
 sudo mv gor /usr/local/bin
 ```
